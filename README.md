@@ -61,5 +61,5 @@ client.run("Token")
 ```
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=s8v&show_icons=true&include_all_commits=true&theme=radical" alt="Rookie's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s8v&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egirlraper&layout=compact&theme=radical" />
 </p>
