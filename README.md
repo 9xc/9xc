@@ -18,6 +18,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-CD9834?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Json" src="https://img.shields.io/badge/-Json-c2a721?style=flat-square&logo=json&logoColor=white" />
 </p>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852663246279540746
                             )](https://discord.com/users/852663246279540746)                        
 <p align="center">
@@ -62,4 +63,3 @@ client.run("Token")
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=egirlraper&show_icons=true&include_all_commits=true&theme=radical" alt="Rookie's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egirlraper&layout=compact&theme=radical" />
-</p>
