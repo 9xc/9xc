@@ -1,6 +1,6 @@
 <h1 align=center>Hi! I'm EgirlRaper / Rookie 👋</h1>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=s8v.s8v)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=egirlraper.egirlraper)
 
 ### Languages I use.
 <p>
