@@ -36,14 +36,14 @@ client.remove_command("help")
 @client.command()
 async def primarylanguages(ctx):
     langem = discord.Embed(
-        title="Max's Languages",
+        title="Rookie's Languages",
         description="""Languages I Use!
         Python
         C-Sharp
         HTML (If you count that as a language :))
         css
         php
-        delphi
+        Delphi /Still learning/
         """,
         color=discord.Colour.dark_purple()
     )
