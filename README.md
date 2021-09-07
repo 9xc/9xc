@@ -1,6 +1,6 @@
-<h1 align=center>Hi! I'm EgirlRaper / Rookie 👋</h1>
+<h1 align=center>Hi! I'm 9xc / Rookie 👋</h1>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=egirlraper.egirlraper)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=9xc.9xc)
 
 ### Languages I use.
 <p>
@@ -20,7 +20,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852663246279540746
                             )](https://discord.com/users/852663246279540746)                        
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=egirlraper&theme=nord&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=9xc&theme=nord&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ### Get to know me...
@@ -51,7 +51,7 @@ async def primarylanguages(ctx):
 async def aboutme(ctx):
     aboutem = discord.Embed(
         title="Some Info About Me :)",
-        description="My Name: Rookie / EgirlRaper\nMy Discord Name Is: rookie?#1337\nTwitter Name: rookiethagawd\nMy Location: Germany\nMy Hobbies: Coding, Gaming, Swatting, Webdev, Chilling with friends",
+        description="My Name: Rookie / 9xc\nMy Discord Name Is: rookie?#1337\nTwitter Name: rookiethagawd\nMy Location: Germany\nMy Hobbies: Coding, Gaming, Swatting, Webdev, Chilling with friends",
         color=discord.Colour.dark_purple()
     )
     await ctx.send(embed = aboutem)
@@ -59,5 +59,5 @@ async def aboutme(ctx):
 client.run("Token")
 ```
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egirlraper&show_icons=true&include_all_commits=true&theme=radical" alt="Rookie's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egirlraper&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=9xc&show_icons=true&include_all_commits=true&theme=radical" alt="Rookie's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9xc&layout=compact&theme=radical" />
