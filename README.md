@@ -36,9 +36,7 @@
 <h1 align="center">LEARNING</h1>
 
 <p align="center"> 
-  <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929328728178708/ufdFD0CAiQAAAABJRU5ErkJggg.png"></code>&nbsp; |
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929624028545024/nasm-logo.png"></code>&nbsp;
+  <code><img height="25" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7MXkGWv7yShgh59zp3MPLwAAAA%26pid%3DApi&f=1"></code>&nbsp; |
 </p>
 
 <h1 align="center">FRAMEWORKS</h1>
