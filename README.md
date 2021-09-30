@@ -3,7 +3,6 @@
 <p align="center">
   <b>🖤 Follow me here:</b><br>
   <a href="https://discord.gg/fzadvHXjCr">Discord</a> |
-  <a href="https://www.youtube.com/channel/UCAEGp2bt0poKRwR3FrMyndw">YouTube</a> |
   <a href="https://twitter.com/rookiethagawd">Twitter</a> |
   <a href="https://github.com/9xc">Github</a>
   <br><br>
