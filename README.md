@@ -9,7 +9,6 @@
   <br><br>
   <img src="https://media.discordapp.net/attachments/879205491954290778/879478268905021520/efsdfdsf.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-5/852663246279540746.png">
 </p>
 
 -----
