@@ -17,7 +17,7 @@
 ```diff
 👤 >> 14 years old, german.
 🗣️ >> fedswantmeakkaiba@protonmail.ch
-🐺 >> Learning delphi. Working on MultiBot
+🐺 >> Learning delphi. Working on IlluminatiBot
 ```
 
 -----
