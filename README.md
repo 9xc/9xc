@@ -27,6 +27,7 @@
   <code><img height="25" src="https://www.php.net//images/logos/new-php-logo.svg"></code>&nbsp; |
   <code><img height="25" src="https://www.armortechs.com/upload/image/blog/css-variables-css-3-logo.png"></code>&nbsp; |
   <code><img height="25" src="https://logodix.com/logo/470388.png"></code>&nbsp; |
+  <code><img height="25" src="https://i1.wp.com/programmingzen.com/wp-content/uploads/2007/09/lua_logo.png"></code>&nbsp; |
   <code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp;
 </p>
 
