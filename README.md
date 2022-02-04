@@ -5,7 +5,7 @@
   <a href="https://twitter.com/rookiethagawd">Twitter</a> |
   <a href="https://github.com/9xc">Github</a>
   <br><br>
-  <img src="https://media.discordapp.net/attachments/879205491954290778/879478268905021520/efsdfdsf.gif">
+  <img src="https://cdn.discordapp.com/attachments/938223738657308712/939305085807243294/bones.gif">
   <br><br>
 </p>
 
@@ -13,8 +13,8 @@
 
 ```diff
 👤 >> 14 years old, german.
-🗣️ >> fedswantmeakkaiba@protonmail.ch
-🐺 >> Learning delphi. Working on IlluminatiBot
+🗣️ >> rookiethgd@protonmail.com
+🐺 >> Learning delphi.
 ```
 
 -----
