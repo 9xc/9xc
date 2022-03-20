@@ -12,7 +12,7 @@
 -----
 
 ```diff
-👤 >> 14 years old, german.
+👤 >> 14 years old, germany.
 🗣️ >> rookiethgd@protonmail.com
 🐺 >> Learning delphi.
 ```
