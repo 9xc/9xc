@@ -5,7 +5,7 @@
   <a href="https://twitter.com/rookiethagawd">Twitter</a> |
   <a href="https://github.com/9xc">Github</a>
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/938223738657308712/939305085807243294/bones.gif">
+  <img src="https://cdn.discordapp.com/attachments/982311902082388020/982381644268851230/3027929276.jpg">
   <br><br>
 </p>
 
@@ -52,8 +52,6 @@
   <img src="https://img.shields.io/github/stars/9xc?style=social">
   <img src="https://komarev.com/ghpvc/?username=9xc&color=blue">
 </p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=9xc">
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=9xc&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="9xc's stats" /> </p>
 
