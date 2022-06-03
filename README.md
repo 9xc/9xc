@@ -38,10 +38,10 @@
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/langfr-220px-.NET_Logo.svg.png"></code>&nbsp;
 </p>
 
-<h1 align="center">LEARNING</h1>
+<h1 align="center">SOCIALS</h1>
 
 <p align="center"> 
-  <code><img height="25" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7MXkGWv7yShgh59zp3MPLwAAAA%26pid%3DApi&f=1"></code>&nbsp; |
+  <code>Discord: rookie?#2700 | Twitter: @rookiethagawd</code>&nbsp;
 </p>
 
 -----
