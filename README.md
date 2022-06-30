@@ -14,7 +14,7 @@
 ```diff
 👤 >> Plez giv me fork men
 🗣️ >> exo.rip
-🐺 >> Main Lang C#.
+🐺 >> Main Langs HTML/CSS/PHP.
 ```
 
 -----
