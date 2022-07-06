@@ -12,7 +12,7 @@
 -----
 
 ```diff
-👤 >> Plez giv me fork men
+👤 >> Give me Stars or gay
 🗣️ >> exo.rip
 🐺 >> Main Langs C#/PHP.
 ```
