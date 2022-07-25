@@ -14,7 +14,7 @@
 ```diff
 👤 >> Give me Stars or gay
 🗣️ >> exo.rip
-🐺 >> Main Langs C#/PHP.
+🐺 >> Main Langs C#/PY/PHP.
 ```
 
 -----
