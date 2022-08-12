@@ -40,7 +40,7 @@
 <h1 align="center">SOCIALS</h1>
 
 <p align="center"> 
-  <code>Discord: rookie?#1337 | Twitter: @rookiethagawd</code>&nbsp;
+  <code>Discord: rookie#1337 | Twitter: @rookiethagawd</code>&nbsp;
 </p>
 
 -----
